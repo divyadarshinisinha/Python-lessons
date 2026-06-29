@@ -1,0 +1,57 @@
+Recipe 1 :  ('Pasta Arrabiata', 'Italian', 20, 'Medium')
+Name of Recipe 1 :  Pasta Arrabiata
+Cuisine of Recipe 1 :  Italian
+Prep Time of Recipe 1 :20 minutes
+Difficulty level of Recipe 1 :  Medium
+
+
+******************************
+
+
+First Recipe Name : Pasta Arrabiata
+Second Recipe Name : Chicken Biryani
+Second Recipe Prep Time : 45 mins
+Second Recipe Difficulty level : Hard
+
+
+******************************
+
+
+Iterate/Loop through a Tuple
+- Pasta Arrabiata
+- Italian
+- 20
+- Medium
+
+
+******************************
+
+
+Enumerate through a Tuple
+1 : Chicken Biryani
+2 : Indian
+3 : 45
+4 : Hard
+
+ Tuple Unpacking
+******************************
+
+
+apple
+banana
+kiwi
+orange
+apple
+['banana', 'kiwi', 'orange', 'guava']
+0
+1
+True
+False
+
+
+******************************
+
+
+1 : John
+2 : David
+3 : Mayank
