@@ -1,0 +1,10 @@
+# Python File Handling Notes
+NOTE: Remember to always close open files!
+- Part 1: read(n) reads specific number of characters.
+- Part 2: readlines() converts lines into a list.
+SKIP: Temporary draft notes to be removed later.
+- Part 3: For loops iterate over files efficiently.
+NOTE: Python 3 handles string encoding automatically.
+- Part 4: Writing to files uses 'w' or 'a' modes.
+SKIP: Unnecessary debug logs from class practice.
+Conclusion: Practice file operations with different file modes.
